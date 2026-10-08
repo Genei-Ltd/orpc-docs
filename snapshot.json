@@ -1,0 +1,647 @@
+{
+  "source": "https://orpc.dev/",
+  "synced_at": "2026-10-08T23:49:01.988922+00:00",
+  "source_commit": "648d1b2c20968df546a633f3c9dc29de9f202213",
+  "markdown_files": 122,
+  "sitemap_pages": 122,
+  "indexes": [
+    "https://orpc.dev/llms.txt"
+  ],
+  "files": {
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/middleapi/orpc/648d1b2c20968df546a633f3c9dc29de9f202213/LICENSE",
+      "bytes": 1060,
+      "sha256": "fa3f0d958e5affd642604f663e399794da28747018cdac1dafef2465ee7e07b0"
+    },
+    "docs/adapters/astro.md": {
+      "url": "https://orpc.dev/docs/adapters/astro.md",
+      "bytes": 2875,
+      "sha256": "8863259475c8c6e895ca0fcf0354f44d611d000b7cf5d415ed494c3db506da57"
+    },
+    "docs/adapters/aws-lambda.md": {
+      "url": "https://orpc.dev/docs/adapters/aws-lambda.md",
+      "bytes": 4369,
+      "sha256": "f894d71ce823fbad91d67f84a6f90b9b1ada9070fd44ee4650aeb9d6487f7644"
+    },
+    "docs/adapters/browser.md": {
+      "url": "https://orpc.dev/docs/adapters/browser.md",
+      "bytes": 5126,
+      "sha256": "8c03ec295dc9340394cfc0b908416f65d9a47b0f026262b91df322af8aa0176b"
+    },
+    "docs/adapters/cloudflare-workers.md": {
+      "url": "https://orpc.dev/docs/adapters/cloudflare-workers.md",
+      "bytes": 2976,
+      "sha256": "fdf3dd80e58cf9fe52f222604bcaed627ea98b5c873ae3dac9c9e2f8175bc065"
+    },
+    "docs/adapters/electron.md": {
+      "url": "https://orpc.dev/docs/adapters/electron.md",
+      "bytes": 2286,
+      "sha256": "a05080fa8b651578a62c8c19ab1d4b4a75d46250e3503c77fe57086c679740f4"
+    },
+    "docs/adapters/elysia.md": {
+      "url": "https://orpc.dev/docs/adapters/elysia.md",
+      "bytes": 1351,
+      "sha256": "93964ed3d6effb698259e0dde7bbc8ac1501405683a16c7436cce19f7d02df49"
+    },
+    "docs/adapters/expo.md": {
+      "url": "https://orpc.dev/docs/adapters/expo.md",
+      "bytes": 10458,
+      "sha256": "1131a9f29d9f3fa52967ced15ba5589f3d4dac2e700bfe9cc199d45519c62774"
+    },
+    "docs/adapters/express.md": {
+      "url": "https://orpc.dev/docs/adapters/express.md",
+      "bytes": 1688,
+      "sha256": "d84be07790f6e3b26b0e849ff85e891573bded05c8b7b30e399d2bd1c56d0444"
+    },
+    "docs/adapters/fastify.md": {
+      "url": "https://orpc.dev/docs/adapters/fastify.md",
+      "bytes": 4403,
+      "sha256": "43b8b7671ba3f04fb788ae46ec3b02e41dc2d9a22ee7fa3061e3b563bbd7fb7c"
+    },
+    "docs/adapters/fetch-api.md": {
+      "url": "https://orpc.dev/docs/adapters/fetch-api.md",
+      "bytes": 5465,
+      "sha256": "c308fe45cbf3a0a60a1f218072931e7879ed5e1a5d142f7d831888ccc06bd236"
+    },
+    "docs/adapters/h3.md": {
+      "url": "https://orpc.dev/docs/adapters/h3.md",
+      "bytes": 1058,
+      "sha256": "2ed34b44d45112021abcd601139655974c50458015fd4472671ea7ad8d939757"
+    },
+    "docs/adapters/hono.md": {
+      "url": "https://orpc.dev/docs/adapters/hono.md",
+      "bytes": 2273,
+      "sha256": "477be116365079373609028c101cb12c362abe3d69b7783b7992eab14222fbb5"
+    },
+    "docs/adapters/message-port.md": {
+      "url": "https://orpc.dev/docs/adapters/message-port.md",
+      "bytes": 2884,
+      "sha256": "867195106469d0ca3d60dcbf3fc6b10239ab7662a12839e31ca8e64c7d0c31d5"
+    },
+    "docs/adapters/next.md": {
+      "url": "https://orpc.dev/docs/adapters/next.md",
+      "bytes": 5697,
+      "sha256": "447a51d86d745c0db251faee4e693f74e79bdfcd1cee89d105d8002f8c4069b5"
+    },
+    "docs/adapters/node-http.md": {
+      "url": "https://orpc.dev/docs/adapters/node-http.md",
+      "bytes": 3832,
+      "sha256": "db23d09ba1f7b8db246a2c539ac0af9f97828497d0b550a96ba17df622d5026c"
+    },
+    "docs/adapters/nuxt.md": {
+      "url": "https://orpc.dev/docs/adapters/nuxt.md",
+      "bytes": 3459,
+      "sha256": "faa6a1cbf4ed65dc0acd6233ce8b332cbc8f5312bb44411a7d37d270e33f3d90"
+    },
+    "docs/adapters/react-router.md": {
+      "url": "https://orpc.dev/docs/adapters/react-router.md",
+      "bytes": 1931,
+      "sha256": "5b9c08b3f2cb0e406248b469a34cc8d9fb4744799a7200d6a6e112b56f4c7c98"
+    },
+    "docs/adapters/solid-start.md": {
+      "url": "https://orpc.dev/docs/adapters/solid-start.md",
+      "bytes": 4349,
+      "sha256": "d187f01d6e7ed36a3151075f8f39bc9d2b6c2144894cfff50032e99430c1ffdb"
+    },
+    "docs/adapters/svelte-kit.md": {
+      "url": "https://orpc.dev/docs/adapters/svelte-kit.md",
+      "bytes": 2492,
+      "sha256": "28e89b417ec1cd1ba74bae767240aaa6f76ab35dc30ec5db3ab51fda560a5919"
+    },
+    "docs/adapters/tanstack-start.md": {
+      "url": "https://orpc.dev/docs/adapters/tanstack-start.md",
+      "bytes": 3633,
+      "sha256": "962d3ffc29f85781232cdfc3ba5223dd8f6d583f806db3844cbc8ce86e4539ce"
+    },
+    "docs/adapters/web-workers.md": {
+      "url": "https://orpc.dev/docs/adapters/web-workers.md",
+      "bytes": 2098,
+      "sha256": "e94253445131c5070c4b962c9b2e856e2a31ad5233fe0bff29d43a76b11fd6be"
+    },
+    "docs/adapters/websocket.md": {
+      "url": "https://orpc.dev/docs/adapters/websocket.md",
+      "bytes": 9911,
+      "sha256": "aa2fd1cc031b591064efa1ae4b921423b659f9fcfda95b55b02579e2c2b09619"
+    },
+    "docs/adapters/worker-threads.md": {
+      "url": "https://orpc.dev/docs/adapters/worker-threads.md",
+      "bytes": 1829,
+      "sha256": "2ea18e1c6078d4d1b2ec56532114587d44c683e93498ad6b372b4bec37207df9"
+    },
+    "docs/api-reference.md": {
+      "url": "https://orpc.dev/docs/api-reference.md",
+      "bytes": 5962,
+      "sha256": "88ac8a79b2cc3013227270e6c7be864dd5134d9e08a1d121daa3de8e4a56d034"
+    },
+    "docs/async-iterator-object.md": {
+      "url": "https://orpc.dev/docs/async-iterator-object.md",
+      "bytes": 4934,
+      "sha256": "e7bf393cc662e6bc739f822549a27e8e04e850b67dd18f3039a654d1619ee42e"
+    },
+    "docs/binary-data.md": {
+      "url": "https://orpc.dev/docs/binary-data.md",
+      "bytes": 2834,
+      "sha256": "61cbd4adfbce9d43df3d77bf15e32d6619fc5b3cfacb9b0d76cd4fc9bc5c9db2"
+    },
+    "docs/client/async-iterator-object.md": {
+      "url": "https://orpc.dev/docs/client/async-iterator-object.md",
+      "bytes": 2905,
+      "sha256": "03d23a771972d03fa29e1798ff9d4773c8cf5b5b737dfc23ef8b95f0f442e8c9"
+    },
+    "docs/client/client-side.md": {
+      "url": "https://orpc.dev/docs/client/client-side.md",
+      "bytes": 5935,
+      "sha256": "38dbfda998690b37e0a1fd336f353425b7169d63c3658d8966d93663d5f5b3e7"
+    },
+    "docs/client/dynamic-link.md": {
+      "url": "https://orpc.dev/docs/client/dynamic-link.md",
+      "bytes": 1040,
+      "sha256": "17363db3657ceda9feb047e313d3577374c6286fe834b9cba359c8461c00e008"
+    },
+    "docs/client/error-handling.md": {
+      "url": "https://orpc.dev/docs/client/error-handling.md",
+      "bytes": 1973,
+      "sha256": "c2655f7efac5f4a1779d506dcdcc07a83f8365641e06769957215635d5de4fce"
+    },
+    "docs/client/server-side.md": {
+      "url": "https://orpc.dev/docs/client/server-side.md",
+      "bytes": 4490,
+      "sha256": "4f54a1ab107bbdfccbe9a94c33b9229fc1f77038d3823c9b743ca11aa2cdb584"
+    },
+    "docs/comparison.md": {
+      "url": "https://orpc.dev/docs/comparison.md",
+      "bytes": 9988,
+      "sha256": "305942af0acaba2b8d4fd5686a12ac7666742b554ed3ed96e214aed46ab7a84a"
+    },
+    "docs/context.md": {
+      "url": "https://orpc.dev/docs/context.md",
+      "bytes": 3014,
+      "sha256": "0eb9fc7b62550a291faca8b53f4a2dd7311625eb5d37182fe60ef3a8407ecce0"
+    },
+    "docs/contract-first.md": {
+      "url": "https://orpc.dev/docs/contract-first.md",
+      "bytes": 8181,
+      "sha256": "d9afe7e38f193187a2c8ed7f1e42d14c40bd3873f8ba51b36e0baba9c59a9af2"
+    },
+    "docs/contract/client-factory.md": {
+      "url": "https://orpc.dev/docs/contract/client-factory.md",
+      "bytes": 6405,
+      "sha256": "5e0171fd3b9d0e6f051f0f8a4aa6e39743ed462dde5445b0aee5d10d518091e4"
+    },
+    "docs/contract/generate-from-openapi.md": {
+      "url": "https://orpc.dev/docs/contract/generate-from-openapi.md",
+      "bytes": 2687,
+      "sha256": "b6cb22507a829567a46dc56d097ea34977221e1b0c6d66a55f99f9df4b7f7b5d"
+    },
+    "docs/contract/implementation.md": {
+      "url": "https://orpc.dev/docs/contract/implementation.md",
+      "bytes": 4040,
+      "sha256": "7d20f5e08ade9c05b3b6e55c339a57b25c4964fda089319481b438a3e1aa0f72"
+    },
+    "docs/contract/procedure.md": {
+      "url": "https://orpc.dev/docs/contract/procedure.md",
+      "bytes": 3218,
+      "sha256": "2584827dc620076a7884f22998819e1c52f2086dd0360b974f240a7a8e12d5f8"
+    },
+    "docs/contract/router.md": {
+      "url": "https://orpc.dev/docs/contract/router.md",
+      "bytes": 4992,
+      "sha256": "e109ebce7da5550678701c2e1de2154ea53f6171f2bab7fa578b8d0882e1684f"
+    },
+    "docs/ecosystem.md": {
+      "url": "https://orpc.dev/docs/ecosystem.md",
+      "bytes": 582,
+      "sha256": "8209d0f0c2aacbda334d01da99dc2c000fa9dabd9b33eb1d0a37a1e555d61153"
+    },
+    "docs/error-handling.md": {
+      "url": "https://orpc.dev/docs/error-handling.md",
+      "bytes": 5818,
+      "sha256": "6ffc9456e2689dddefd2f925d179b19c15aee27c6291995836ede26dc6ab6aca"
+    },
+    "docs/getting-started.md": {
+      "url": "https://orpc.dev/docs/getting-started.md",
+      "bytes": 7083,
+      "sha256": "8b7416d84b04281f9c9f4c3e2525e91ddc58834369847b3c281ce04d9a91ca9b"
+    },
+    "docs/helpers/base64url.md": {
+      "url": "https://orpc.dev/docs/helpers/base64url.md",
+      "bytes": 742,
+      "sha256": "6f50ff5d6bcaf45c8d132c23a2e9be7505008a3ee1d223ce7fc6dead9cfdfda0"
+    },
+    "docs/helpers/cookie.md": {
+      "url": "https://orpc.dev/docs/helpers/cookie.md",
+      "bytes": 1311,
+      "sha256": "bbb628db7fc152439ae760c272b8b77ae3154647d59814e357133cfd89ad3c2a"
+    },
+    "docs/helpers/encryption.md": {
+      "url": "https://orpc.dev/docs/helpers/encryption.md",
+      "bytes": 1114,
+      "sha256": "77eebf68caae9609ec5d15b76995508afa3b93e06c296bd3c7320540b648c9aa"
+    },
+    "docs/helpers/form-data.md": {
+      "url": "https://orpc.dev/docs/helpers/form-data.md",
+      "bytes": 2597,
+      "sha256": "e8f3dc758c90717c08da81ceb2f55e4f1d4373ec14a00beacf7d28e09276ddab"
+    },
+    "docs/helpers/lock.md": {
+      "url": "https://orpc.dev/docs/helpers/lock.md",
+      "bytes": 9563,
+      "sha256": "01bc6505ce40e0e24b2834491d3dc34e384f5f223f5a22fafa0ad14fde54075f"
+    },
+    "docs/helpers/publisher.md": {
+      "url": "https://orpc.dev/docs/helpers/publisher.md",
+      "bytes": 11803,
+      "sha256": "9c795281fd718d5fee5d390312662fe74d0558217236d1cfd1f270d34adbbfc8"
+    },
+    "docs/helpers/ratelimit.md": {
+      "url": "https://orpc.dev/docs/helpers/ratelimit.md",
+      "bytes": 9129,
+      "sha256": "5f44a76d498e8047b7198ca998202fac7d54ed28e1ec31428877c9bcc84d2d67"
+    },
+    "docs/helpers/signing.md": {
+      "url": "https://orpc.dev/docs/helpers/signing.md",
+      "bytes": 983,
+      "sha256": "639f25b326f59cc298681ea7788c46a72f89f1dac151f98e28f9327c98e354e7"
+    },
+    "docs/integrations/ai-sdk.md": {
+      "url": "https://orpc.dev/docs/integrations/ai-sdk.md",
+      "bytes": 6965,
+      "sha256": "f1e011948e0df7a2a3a3dd0080455ff2f5691eaa2fbceb21cd4c8a80e1e2cfef"
+    },
+    "docs/integrations/arktype.md": {
+      "url": "https://orpc.dev/docs/integrations/arktype.md",
+      "bytes": 2176,
+      "sha256": "fbee23436d42cd43332f9a2553ac7df0479583501f1f78ec98fd8548ee12f0bf"
+    },
+    "docs/integrations/better-auth.md": {
+      "url": "https://orpc.dev/docs/integrations/better-auth.md",
+      "bytes": 4160,
+      "sha256": "615ce1761a105ee8e98c0c967e0df2991e51019b500fa5f81f23127b4f279ea1"
+    },
+    "docs/integrations/cloudflare-traces.md": {
+      "url": "https://orpc.dev/docs/integrations/cloudflare-traces.md",
+      "bytes": 2248,
+      "sha256": "797177660f286477dcae0ec73d8374666c2dd3f8e9f49e4eff91f6055d35f3ca"
+    },
+    "docs/integrations/effect.md": {
+      "url": "https://orpc.dev/docs/integrations/effect.md",
+      "bytes": 11688,
+      "sha256": "6ac3ecbe9a4ea4f6057023a1836eeaa9c88a59ce33169f8c970a2d401625f52f"
+    },
+    "docs/integrations/evlog.md": {
+      "url": "https://orpc.dev/docs/integrations/evlog.md",
+      "bytes": 3613,
+      "sha256": "3585d1eda618770c3d5b120baf3e50e380bd8c13e6623bb61cfeb1c77090ad54"
+    },
+    "docs/integrations/hibernation.md": {
+      "url": "https://orpc.dev/docs/integrations/hibernation.md",
+      "bytes": 6647,
+      "sha256": "f028fc64d27ccc0294328c4046f1e4f9e1ad997bc0c4d00aa1bf2b8c16aa8c1b"
+    },
+    "docs/integrations/msw.md": {
+      "url": "https://orpc.dev/docs/integrations/msw.md",
+      "bytes": 5995,
+      "sha256": "bf98f112aee0ee620d1dba96e20b22f8549957e1e3fa7048ceb1cc220be2e6f6"
+    },
+    "docs/integrations/nest.md": {
+      "url": "https://orpc.dev/docs/integrations/nest.md",
+      "bytes": 11177,
+      "sha256": "816d64c827c5bee8ba0ba7f13e038a65ec27740d8c8954b414f22bab76ed969a"
+    },
+    "docs/integrations/next.md": {
+      "url": "https://orpc.dev/docs/integrations/next.md",
+      "bytes": 8765,
+      "sha256": "73595a9b1ea43d85defc2d9747586be68702bbe030d06b833971e9f93f9034ed"
+    },
+    "docs/integrations/opentelemetry.md": {
+      "url": "https://orpc.dev/docs/integrations/opentelemetry.md",
+      "bytes": 3757,
+      "sha256": "5dbb8ae54b13ea67f7d872da5d0d26a3f6663c38fb89a85739862789dcbdbb19"
+    },
+    "docs/integrations/pinia-colada.md": {
+      "url": "https://orpc.dev/docs/integrations/pinia-colada.md",
+      "bytes": 13576,
+      "sha256": "c374e1dd18a9f21001f2a152a3e43b5c1256956b33fdc4fc691e1b5f9264b651"
+    },
+    "docs/integrations/pino.md": {
+      "url": "https://orpc.dev/docs/integrations/pino.md",
+      "bytes": 3729,
+      "sha256": "365d2eac28bb285f3a3e25bb195f4ee99b5a88ce923ec83e33388e6fdc4a0af2"
+    },
+    "docs/integrations/standard-schema.md": {
+      "url": "https://orpc.dev/docs/integrations/standard-schema.md",
+      "bytes": 2521,
+      "sha256": "b29a748599506c0227a4c6a520bf94bb830392fd623916c340648d7af7f30a71"
+    },
+    "docs/integrations/swr.md": {
+      "url": "https://orpc.dev/docs/integrations/swr.md",
+      "bytes": 4385,
+      "sha256": "5086fb9f944574f0742435e92f448bb522d0138796a65fc447df69443e23ec59"
+    },
+    "docs/integrations/tanstack-ai.md": {
+      "url": "https://orpc.dev/docs/integrations/tanstack-ai.md",
+      "bytes": 3338,
+      "sha256": "e5839ab4785aa6ff61a1f1ec6d868a6119a597e43ad2dc08bedbb5787f731552"
+    },
+    "docs/integrations/tanstack-query.md": {
+      "url": "https://orpc.dev/docs/integrations/tanstack-query.md",
+      "bytes": 19933,
+      "sha256": "431c7c978db0d5a18a602a000b6698998899375fdda8388d37dcdeba0cb7b112"
+    },
+    "docs/integrations/trpc.md": {
+      "url": "https://orpc.dev/docs/integrations/trpc.md",
+      "bytes": 2612,
+      "sha256": "cc2611551c78ee1e7635808a2147d3f16fe475da60921c62dfb39edc230acfbf"
+    },
+    "docs/integrations/valibot.md": {
+      "url": "https://orpc.dev/docs/integrations/valibot.md",
+      "bytes": 2424,
+      "sha256": "6c25b8fc5eb3fafccacef0df7147d5137fb08b03ae1e362e9b977b59476b7dca"
+    },
+    "docs/integrations/zod.md": {
+      "url": "https://orpc.dev/docs/integrations/zod.md",
+      "bytes": 3060,
+      "sha256": "af69df9fb4ead82136cb6b6bf50e39c88e5d1f4389b804d8dba740945dc1bb25"
+    },
+    "docs/metadata.md": {
+      "url": "https://orpc.dev/docs/metadata.md",
+      "bytes": 3260,
+      "sha256": "e5f94b7f55185138c2a9fd4705b239f1137de7e384c8e95f175c2a5d247e85a4"
+    },
+    "docs/middleware.md": {
+      "url": "https://orpc.dev/docs/middleware.md",
+      "bytes": 4746,
+      "sha256": "c73bf5c580cf7ded3ee9f8aa2ce1aa84cd861f330c8e0ba3129d60d8dfc6b41b"
+    },
+    "docs/migrations/from-trpc.md": {
+      "url": "https://orpc.dev/docs/migrations/from-trpc.md",
+      "bytes": 10831,
+      "sha256": "c711ed999a3c17a1619309d5991a515938e793eae0426677a011a5f5296c2ec4"
+    },
+    "docs/migrations/from-v1.md": {
+      "url": "https://orpc.dev/docs/migrations/from-v1.md",
+      "bytes": 44584,
+      "sha256": "7ad20bf88d78a8c517fe856833c33386b9a61babf419b480b5f0ca9bf08d5dfe"
+    },
+    "docs/openapi/bracket-notation.md": {
+      "url": "https://orpc.dev/docs/openapi/bracket-notation.md",
+      "bytes": 3373,
+      "sha256": "4d83445831abb1bc1a418a05539a49eb2c77da3be65691ab9ca1b5cc178602a0"
+    },
+    "docs/openapi/expanding-type-support-for-link.md": {
+      "url": "https://orpc.dev/docs/openapi/expanding-type-support-for-link.md",
+      "bytes": 3340,
+      "sha256": "fa2a9109d0c85ac87f519b1f2c9a69f011185b96c93f02402f63bbc91a172ada"
+    },
+    "docs/openapi/handler.md": {
+      "url": "https://orpc.dev/docs/openapi/handler.md",
+      "bytes": 9876,
+      "sha256": "6b892685e8f0fb24899d1e037b3177d25baff04e1907009525536773773d85d5"
+    },
+    "docs/openapi/input-and-output-mapping.md": {
+      "url": "https://orpc.dev/docs/openapi/input-and-output-mapping.md",
+      "bytes": 11736,
+      "sha256": "9c4064fe25e2946fdee5bdabeaf469261539da213063ca94473b0c0d83b203d0"
+    },
+    "docs/openapi/link-without-runtime-imports.md": {
+      "url": "https://orpc.dev/docs/openapi/link-without-runtime-imports.md",
+      "bytes": 3611,
+      "sha256": "3b221f8590d79ac6e5e50492fae2493d5e044ca633fdb0d319ac0d7ec65f27b3"
+    },
+    "docs/openapi/link.md": {
+      "url": "https://orpc.dev/docs/openapi/link.md",
+      "bytes": 9756,
+      "sha256": "d18c3ffddb125f8d6c4c89993b4388abc93e1cdc79b15f67294add6783c246c2"
+    },
+    "docs/openapi/routing.md": {
+      "url": "https://orpc.dev/docs/openapi/routing.md",
+      "bytes": 5142,
+      "sha256": "8be2266b10295ff211a9840b9d3fd52f013cd013dc659001cff0bbffd9174abd"
+    },
+    "docs/openapi/scalar.md": {
+      "url": "https://orpc.dev/docs/openapi/scalar.md",
+      "bytes": 2821,
+      "sha256": "985b00256819638dffe2261b2c75d1df8353784c05082f3d5e1390ae9a9e46e3"
+    },
+    "docs/openapi/serializer.md": {
+      "url": "https://orpc.dev/docs/openapi/serializer.md",
+      "bytes": 7417,
+      "sha256": "ac6141a0c8a56af72e89f6ab3c2346c52c696045b8d4c88c5e16a82adb8b595f"
+    },
+    "docs/openapi/specification.md": {
+      "url": "https://orpc.dev/docs/openapi/specification.md",
+      "bytes": 7935,
+      "sha256": "a0536f35d19baa5981a5e37a1919da0f8b02ee14c4b53a340f237d0f69f72c4e"
+    },
+    "docs/playgrounds.md": {
+      "url": "https://orpc.dev/docs/playgrounds.md",
+      "bytes": 2760,
+      "sha256": "f8ba20d7596388479df41dd7b9c38231df7c4d4d13965527e2e88113ead5d7a6"
+    },
+    "docs/plugins/batch-response-compression.md": {
+      "url": "https://orpc.dev/docs/plugins/batch-response-compression.md",
+      "bytes": 3689,
+      "sha256": "b78a91a9b89c5543e9788a8bf407cc77f74164e182b83d4cf73d65b0fdfd658c"
+    },
+    "docs/plugins/batch.md": {
+      "url": "https://orpc.dev/docs/plugins/batch.md",
+      "bytes": 7240,
+      "sha256": "0048ceaa8de1747c4349fdc6fc18522aee04b4538349a2ed539186f8bf2b943d"
+    },
+    "docs/plugins/cors.md": {
+      "url": "https://orpc.dev/docs/plugins/cors.md",
+      "bytes": 2355,
+      "sha256": "25017d7f4fa42729b007ad05e70c086a638c95c472975ba7dcd09c516eec0c4d"
+    },
+    "docs/plugins/dedupe.md": {
+      "url": "https://orpc.dev/docs/plugins/dedupe.md",
+      "bytes": 4264,
+      "sha256": "e860308714999e6fb7c1a25b3701fe835b926e55b2ac390c56637ac4b09f141a"
+    },
+    "docs/plugins/get-method-csrf-protection.md": {
+      "url": "https://orpc.dev/docs/plugins/get-method-csrf-protection.md",
+      "bytes": 5392,
+      "sha256": "6d8c5a08ecdb68b5ec040273f917256267b3668b9460716e3a657988eb62182a"
+    },
+    "docs/plugins/method-override.md": {
+      "url": "https://orpc.dev/docs/plugins/method-override.md",
+      "bytes": 1899,
+      "sha256": "5d2e14f19b4a1abf079a293f2de78f4d79d5bd22ecd8bdf8ece19535d47a179b"
+    },
+    "docs/plugins/openapi-reference.md": {
+      "url": "https://orpc.dev/docs/plugins/openapi-reference.md",
+      "bytes": 3386,
+      "sha256": "2bf89ebb8b32cc0512918bbd27590a46926c2dbf3070eb5fe1c1fcd20fc463ea"
+    },
+    "docs/plugins/prototype-pollution-protection.md": {
+      "url": "https://orpc.dev/docs/plugins/prototype-pollution-protection.md",
+      "bytes": 2887,
+      "sha256": "70d6417350ccd5c766046dc70567393e6388c70f9dda7db26b980d61886e132e"
+    },
+    "docs/plugins/request-compression.md": {
+      "url": "https://orpc.dev/docs/plugins/request-compression.md",
+      "bytes": 3068,
+      "sha256": "12de32be9d54f76700cb2f7b92d85e35bc1ff15b4df712260572acdf3c7874ba"
+    },
+    "docs/plugins/request-headers.md": {
+      "url": "https://orpc.dev/docs/plugins/request-headers.md",
+      "bytes": 1572,
+      "sha256": "1dc5288c66d1a2b7dbd8ccb96c46bb2490fa8e5fe7ef30972ae22cf8adb65b36"
+    },
+    "docs/plugins/request-limit.md": {
+      "url": "https://orpc.dev/docs/plugins/request-limit.md",
+      "bytes": 2500,
+      "sha256": "19c1c2df679af7b63f7a011a5203577101c5f5a5a2fd420040ef580466da3c7d"
+    },
+    "docs/plugins/request-validation.md": {
+      "url": "https://orpc.dev/docs/plugins/request-validation.md",
+      "bytes": 3066,
+      "sha256": "882a3e44e94ed36a4c6e77fb2bf61ae8a8617f32b6ce257e0fce62ec15a6ad35"
+    },
+    "docs/plugins/response-compression.md": {
+      "url": "https://orpc.dev/docs/plugins/response-compression.md",
+      "bytes": 4116,
+      "sha256": "84b1c37b115e60fd0aa7b3965bde98893e656c726cb7c83438e430ad295ab8eb"
+    },
+    "docs/plugins/response-headers.md": {
+      "url": "https://orpc.dev/docs/plugins/response-headers.md",
+      "bytes": 1606,
+      "sha256": "39624c4aa8cc4785a03d73f1b995f07a0098a2541e243169b8304c05a37a3a8f"
+    },
+    "docs/plugins/response-validation.md": {
+      "url": "https://orpc.dev/docs/plugins/response-validation.md",
+      "bytes": 2573,
+      "sha256": "670e62f831c6f886b385b75a2e0ab421839141e85c63bd79cc000829a2bed7be"
+    },
+    "docs/plugins/rethrow.md": {
+      "url": "https://orpc.dev/docs/plugins/rethrow.md",
+      "bytes": 828,
+      "sha256": "5e81bee00f4357e57f501dbaa906fbc29620e5bc4620827d98e1b99720a108d6"
+    },
+    "docs/plugins/retry-after.md": {
+      "url": "https://orpc.dev/docs/plugins/retry-after.md",
+      "bytes": 1463,
+      "sha256": "2f509504289c247de0cce211e95735b94876a9ab54abb1b9212d887b10f5bfd0"
+    },
+    "docs/plugins/retry.md": {
+      "url": "https://orpc.dev/docs/plugins/retry.md",
+      "bytes": 2794,
+      "sha256": "f3db496794f1e02c2e6e671e72c2834531e1b4062c2fa2fd628737c3d62331f9"
+    },
+    "docs/plugins/smart-coercion.md": {
+      "url": "https://orpc.dev/docs/plugins/smart-coercion.md",
+      "bytes": 5292,
+      "sha256": "c2536b1d80106e87ad3edfdb9f62ed418339c5bb8cb72915a3d7ec5c9cf3806d"
+    },
+    "docs/plugins/static-file.md": {
+      "url": "https://orpc.dev/docs/plugins/static-file.md",
+      "bytes": 4429,
+      "sha256": "a2bbfcf1dafeb49dc40299da4bb83db70fd4db18a150ae86ca6c2f2e931f038f"
+    },
+    "docs/plugins/timeout.md": {
+      "url": "https://orpc.dev/docs/plugins/timeout.md",
+      "bytes": 3054,
+      "sha256": "45d1e6c1d8d3cd881b61ec9d8b2fd2b66c0e7460bb567b952a7fc4e05560a863"
+    },
+    "docs/plugins/tmp-file-upload.md": {
+      "url": "https://orpc.dev/docs/plugins/tmp-file-upload.md",
+      "bytes": 5821,
+      "sha256": "6013488bf4529446a6fd334e5903295982976d5c8f75e09c8cd34d5cdf6ac978"
+    },
+    "docs/procedure.md": {
+      "url": "https://orpc.dev/docs/procedure.md",
+      "bytes": 6695,
+      "sha256": "0c400f4562872c163bd9ee82901e9cbf65a864bb2726c8fe61ac8feb71b5183a"
+    },
+    "docs/recipes/dedupe-middleware.md": {
+      "url": "https://orpc.dev/docs/recipes/dedupe-middleware.md",
+      "bytes": 2571,
+      "sha256": "8dba544cc41b6316dadbdd53fd3ea8aa2f11d568d750a96f44f4a28ea649441b"
+    },
+    "docs/recipes/exceeds-the-maximum-length-problem.md": {
+      "url": "https://orpc.dev/docs/recipes/exceeds-the-maximum-length-problem.md",
+      "bytes": 2247,
+      "sha256": "af741be977c9d836e205c22e51ff113ec8fd7820b376d6e505a7467419e19291"
+    },
+    "docs/recipes/monorepo-setup.md": {
+      "url": "https://orpc.dev/docs/recipes/monorepo-setup.md",
+      "bytes": 3265,
+      "sha256": "43b3102f1af84d3306ce0716577c1e1b5f2bdd54e3381ea9bb8a1d32db049ea9"
+    },
+    "docs/recipes/no-throw-literal.md": {
+      "url": "https://orpc.dev/docs/recipes/no-throw-literal.md",
+      "bytes": 1541,
+      "sha256": "6be5f30598b8b06b2e3ae7e12f312e016f61e9cae087d98fe79272a9ec84de12"
+    },
+    "docs/recipes/optimizing-ssr.md": {
+      "url": "https://orpc.dev/docs/recipes/optimizing-ssr.md",
+      "bytes": 5757,
+      "sha256": "b40c7ca15135b89c400dbea2992d3615e74069846009a4005b66f369c6460b1e"
+    },
+    "docs/recipes/publish-client-to-npm.md": {
+      "url": "https://orpc.dev/docs/recipes/publish-client-to-npm.md",
+      "bytes": 3251,
+      "sha256": "b14d66a83ed220f26105d932f904ff4e4c97ca9ccb2f40f47a232298b73f748d"
+    },
+    "docs/recipes/testing-and-mocking.md": {
+      "url": "https://orpc.dev/docs/recipes/testing-and-mocking.md",
+      "bytes": 2257,
+      "sha256": "e60a42ee0b881c600485fbf45a7f4c9b5d021c7ccbbb2b861ea9210187a215e2"
+    },
+    "docs/recipes/validation-customization.md": {
+      "url": "https://orpc.dev/docs/recipes/validation-customization.md",
+      "bytes": 4630,
+      "sha256": "16822b125deee614d8cd0b302fe85c19786eff54ff2ac93c56b516e51d1a68fa"
+    },
+    "docs/requirements.md": {
+      "url": "https://orpc.dev/docs/requirements.md",
+      "bytes": 13501,
+      "sha256": "1f5b44cd94b4973bc347f544fdabd3ea0cddd02a623d4feda0ae781cca55d468"
+    },
+    "docs/router.md": {
+      "url": "https://orpc.dev/docs/router.md",
+      "bytes": 4498,
+      "sha256": "dff7053a52c860b966d4b64b1b53fa14e4b04d98c219925b87d62f139bc56df6"
+    },
+    "docs/rpc/handler.md": {
+      "url": "https://orpc.dev/docs/rpc/handler.md",
+      "bytes": 12837,
+      "sha256": "835113127f4267ec903f43a9fed91b778b17b43e41610f89ccb6aa8c362f59b9"
+    },
+    "docs/rpc/link.md": {
+      "url": "https://orpc.dev/docs/rpc/link.md",
+      "bytes": 9818,
+      "sha256": "4641f35d6eab4077d012b7a95e662236e1260d053f1faa59b14a472adf37ba00"
+    },
+    "docs/rpc/protocol.md": {
+      "url": "https://orpc.dev/docs/rpc/protocol.md",
+      "bytes": 4208,
+      "sha256": "79cc71fef814d83ca70adb97f6305ffdd0492ed250dd3713d7a245058d1d8d9e"
+    },
+    "docs/rpc/serializer.md": {
+      "url": "https://orpc.dev/docs/rpc/serializer.md",
+      "bytes": 8469,
+      "sha256": "e806944451c2c398ecbedd3fc90f8a758a454ad9ea460ddc228b4282a53f336f"
+    },
+    "llms-full.txt": {
+      "url": "https://orpc.dev/llms-full.txt",
+      "bytes": 607596,
+      "sha256": "c53720335191002737d8cd0c0d2e11a1249314aa84d4bb67fbcd31dd2f82c5af"
+    },
+    "llms.txt": {
+      "url": null,
+      "bytes": 7615,
+      "sha256": "8b4cbd6ebf2b5bd9dc2936ee20453935bb211abb6b54353843958ef047108f4c"
+    },
+    "robots.txt": {
+      "url": "https://orpc.dev/robots.txt",
+      "bytes": 117,
+      "sha256": "c7a300b094f4c91020f95c1458aef9956240bf5f9f35f55bb202c01b4232113d"
+    },
+    "sitemap.xml": {
+      "url": "https://orpc.dev/sitemap.xml",
+      "bytes": 12443,
+      "sha256": "b6e750cfa16efb9440cbea698f279d90be08663ea5cce20ac8752301214cad14"
+    }
+  }
+}

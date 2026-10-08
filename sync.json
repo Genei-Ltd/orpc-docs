@@ -1,0 +1,12 @@
+{
+  "base_url": "https://orpc.dev/",
+  "source_repository": "middleapi/orpc",
+  "source_directory": "apps/content/",
+  "include_prefixes": [
+    "docs/"
+  ],
+  "extra_files": {
+    "robots.txt": "https://orpc.dev/robots.txt"
+  },
+  "asset_hosts": []
+}
